@@ -231,10 +231,12 @@
                 + [Application Wizard](https://github.com/amoffat/bootstrap-application-wizard)
             + Themes
                 + [Bootswatch](http://bootswatch.com/): Theme catalog.
+                + [Bootstraptaste](http://bootstraptaste.com/): Free themes
                 + [Jumpstart UI](http://jumpstartui.com/): Another catalog for paid themes
                 + [Darkstrap](http://danneu.com/posts/4-darkstrap-css-a-dark-theme-for-twitter-bootstrap-2): A dark theme.
                 + [jQuery Mobile Boostrap](https://github.com/commadelimited/jQuery-Mobile-Bootstrap-Theme): A jQuery Mobile theme based on Twitter Bootstrap
                 + [Wrapbootstrap](http://wrapbootstrap.com/)
+                + [Bootstrapmade](https://bootstrapmade.com/)
                 + [Flat UI](http://designmodo.github.io/Flat-UI/)Free Web User Interface Kit that Rocks!
                 + Wordpress
                     + [BootstrapWP](http://rachelbaker.me/bootstrapwp/)
